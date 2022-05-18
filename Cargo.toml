@@ -2,6 +2,7 @@
 name = "prologue"
 version = "0.0.0"
 authors = ["Gianluca Brian <gianluca.brian.94@gmail.com>"]
+description = "Personal project about building a 16-bit x86 system."
 edition = "2021"
 readme = "README.md"
 repository = "https://github.com/mclytar/prologue"
