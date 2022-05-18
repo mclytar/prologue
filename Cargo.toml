@@ -4,6 +4,7 @@ version = "0.0.0"
 authors = ["Gianluca Brian <gianluca.brian.94@gmail.com>"]
 edition = "2021"
 readme = "README.md"
+repository = "https://github.com/mclytar/prologue"
 license = "MIT OR Apache-2.0"
 
 
